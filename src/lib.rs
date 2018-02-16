@@ -8,3 +8,5 @@ extern crate serde_json;
 pub mod client;
 pub mod error;
 pub mod models;
+pub mod general;
+pub mod wallet;
